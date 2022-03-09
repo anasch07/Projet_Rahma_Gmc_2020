@@ -1,8 +1,6 @@
 # Tn Solvers #chedDarek
  Tn Solvers Ched Darek
-i am writing this at 15:42
-you can check the live version of our site 
-https://moukimdev.com/Hackaton/TnSolvers-ChedDarek/
+
 
 in the first page you can see the graphical Chart that is automaticly refreshed every day with data from many api's using JS with asynchrounous functions 
 so it will be updated without even refreshing the page .
